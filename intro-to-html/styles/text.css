@@ -1,0 +1,64 @@
+ p {
+    font-family: arial;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.video-title {
+font-size: 18px;
+font-weight: bold;
+width: 300px;
+line-height: 24px;
+margin-bottom: 4px;
+}
+
+.video-stats {
+font-size: 14px;
+color: #606060;
+margin-top: 0;
+margin-bottom: 20px;
+}
+
+.video-author {
+font-size: 14px;
+color: #606060;
+margin-top: 0;
+margin-bottom: 0;
+}
+
+.video-disceription {
+color: #606060;
+font-size: 14px;
+width: 280px;
+line-height: 20px;
+margin-top: 20px;
+margin-bottom: 100px;
+
+}
+
+.apple-text {
+background-color: rgb(227, 65, 64);
+color: white;
+text-align: center;
+padding-top: 20px;
+padding-bottom: 19px;
+font-size: 15px;
+}
+
+.shop-link {
+cursor: pointer;
+}
+.shop-link:hover {
+text-decoration: underline;
+}
+
+.deals-year {
+margin-top: 100px;
+font-size: 30px;
+font-weight: bold;
+}
+
+.sales-end {
+color: rgb(199, 25, 25);
+font-size: 18px;
+margin-top: 5px;
+}

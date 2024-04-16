@@ -1,0 +1,104 @@
+.subscribe-button {
+    background-color: rgb(195, 0, 0);
+    color: white;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-right: 8px;
+    transition:opacity 0.19s;
+}
+.subscribe-button:hover {
+    opacity: 0.8;
+}
+
+.subscribe-button:active {
+    opacity: 0.5;
+}
+
+.join-button:hover {
+    background-color: rgb(41, 118, 211);
+    color: white;
+}
+
+.join-button:active {
+    opacity: 0.7;
+}
+
+.join-button {
+    background-color: white;
+    border-color: rgb(41, 118, 211);
+    border-style: solid;
+    border-width: 1.20px;
+    color: rgb(0, 38, 260);
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-right: 9px;
+    transition: opacity 0.16s; 
+    color: 0.16s;
+
+}
+
+.tweet-button {
+    background-color:rgb(2, 140, 276);
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 54px;
+    border: none;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+    transition: box-shadow 0.15s;
+}
+
+.tweet-button:hover {
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.15);
+}
+
+.add-to-cart-button {
+    margin-left: 9px;
+    background-color: rgb(240, 201, 20);
+    width: 160px;
+    height: 35px;
+    border: none;
+    border-radius: 70px;
+    transition: box-shadow 0.15s;
+    cursor: pointer;
+}
+
+.add-to-cart-button:hover {
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.40);
+}
+
+.stretch-button {
+     background-color: rgb(8, 134, 8);
+     color: white;
+     padding-top: 10px;
+     padding-bottom: 10px;
+     padding-left: 15px;
+     padding-right: 15px;
+     border: none;
+     margin-left: 10px;
+     transition: all 0.7s;
+     font-weight: bold;
+
+}
+
+.stretch-button:hover {
+    cursor: pointer;
+    padding-top: 16;
+    padding-bottom: 16;
+    padding-right: 31;
+    padding-left: 31;
+    vertical-align: top;
+}
